@@ -1,6 +1,5 @@
 function maxSum = P018()
 load('P018.mat')
-
 %This program uses a dynamic programming approach.
 %Start from the last-1st row of the triangle, and find the best choice
 %for each of these points to the two choices in the last row, summing them.

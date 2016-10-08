@@ -1,4 +1,4 @@
-function s = P10(y)
+function s = P010(y)
 %Find the sum of all primes below input y.
 if nargin<1; y=2e6; end
 x=1:y;

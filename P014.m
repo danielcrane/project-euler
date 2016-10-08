@@ -1,4 +1,4 @@
-function x0 = P14(X)
+function x0 = P014(X)
 %Find x0, the starting number number under 1e6 that results in the longest Collatz sequence.
 %This method is inefficient, there must be a better way by storing subcycles.
 if nargin<1; X=1e6; end

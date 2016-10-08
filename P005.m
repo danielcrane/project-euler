@@ -1,4 +1,4 @@
-function p=P5(n)
+function p=P005(n)
 % Calculates the smallest number that is disible by all numbers 1:n.
 if nargin<1; n=20; end
 x=2;

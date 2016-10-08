@@ -1,4 +1,4 @@
-function p=P4(n)
+function p=P004(n)
 % Find the largest palindrome made from the product of two n-digit numbers.
 if nargin<1; n=3; end
 p=0;

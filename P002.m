@@ -1,4 +1,4 @@
-function s=P2(N)
+function s=P002(N)
 % Calculates the sum of even numbers of the Fibonacci sequence below N.
 if nargin<1; N=4e6; end
 s=0;

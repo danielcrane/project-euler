@@ -1,4 +1,4 @@
-function p = P9(s)
+function p = P009(s)
 % Finds product abc of a pythagorean triplet for which a+b+c=s.
 if nargin<1; s=1000; end
 a = 1; b = 2; c = 3;

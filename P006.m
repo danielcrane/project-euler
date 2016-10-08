@@ -1,4 +1,4 @@
-function sd = P6(n)
+function sd = P006(n)
 % Calculate difference between sum of squares and square of sum of first
 % n natural numbers.
 if nargin<1; n=100; end

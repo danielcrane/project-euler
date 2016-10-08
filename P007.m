@@ -1,4 +1,4 @@
-function p = P7(n)
+function p = P007(n)
 % Finds the nth prime number.
 if nargin<1; n=10001; end
 

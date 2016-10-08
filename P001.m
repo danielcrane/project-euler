@@ -1,4 +1,4 @@
-function s = P1(N)
+function s = P001(N)
 %Calculates the sum of the multiples of 3 or 5 below N.
 if nargin<1; N=1000; end
 s=0;

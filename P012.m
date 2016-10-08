@@ -1,4 +1,4 @@
-function t = P12(r)
+function t = P012(r)
 % Find the first triangle number to have over input r divisors.
 if nargin<1; r=500; end
 n=1;d=0;

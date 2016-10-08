@@ -1,4 +1,4 @@
-function F=P3(n)
+function F=P003(n)
 % Calculates the largest prime factor of n.
 if nargin<1; n=600851475143; end
 F=[];
